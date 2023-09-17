@@ -25,7 +25,7 @@ We edit that Content - News Menu with the payload that we have created and see t
 ### XSS Payload:
 
 ```js
-""><svg/onload=prompt('Title')>
+'"><svg/onload=prompt('Title')>
 ```
 
 
